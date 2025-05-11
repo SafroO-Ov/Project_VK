@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package proto.package;
 
-option go_package = "proto.package";
+option go_package = "github.com/SafroO-Ov/Project_VK/subpub/proto";
 import "google/protobuf/empty.proto";
 
 service PubSub {
